@@ -337,11 +337,12 @@ p {
 }
 
 .attribution {
-  background: var(--dark-gray);
+  background: #212121;
   color: #fff;
-  height: 5%;
+  height: fit-content;
   text-align: center;
   padding-top: 16px;
+  padding-bottom: 16px;
 }
 .attribution a {
   /* text-decoration: none; */
